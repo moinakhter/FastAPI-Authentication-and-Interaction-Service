@@ -24,7 +24,7 @@ This project implements a FastAPI-based interaction service that processes user 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/moinakhter/FastAPI-Authentication-and-Interaction-Service.git)
+   git clone https://github.com/moinakhter/FastAPI-Authentication-and-Interaction-Service.git
    cd FastAPI-Authentication-and-Interaction-Service.
    ```
 2. Install dependencies:
